@@ -82,6 +82,7 @@ Go `context` package is recommended.
 
 ### 3. Heartbeats
 ### 4. Replicated request
+Send multiple requests to different idential up-streams to get the fastest response
 ### 5. Rate limiting
 ### 6. Healing unhealthy goroutines
 
